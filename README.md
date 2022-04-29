@@ -1,7 +1,7 @@
 # Calculator built with ReactJS
 
 ## Demo
-[Live Preview]()
+[Live Preview](https://react-calculator-np.web.app/)
 
 ## Instalation
 ```bash
